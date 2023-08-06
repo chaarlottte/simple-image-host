@@ -1,0 +1,9 @@
+{
+    "url": "https://127.0.0.1:6321/",
+    "port": 6321,
+    "base_path": "img",
+    "image_folder": "images",
+    "keys": [
+        "testkey"
+    ]
+}
